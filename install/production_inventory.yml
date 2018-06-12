@@ -1,0 +1,8 @@
+[elk]
+jenkins
+
+[elk-client]
+jenkins
+ansible
+nexus
+sonar
